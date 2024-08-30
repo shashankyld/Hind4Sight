@@ -1,0 +1,5 @@
+Some relevant sites
+https://arxiv.org/pdf/2008.00456
+https://lukashermann.github.io/de/publication/hind4sight/
+https://github.com/msieb1/se3net
+
